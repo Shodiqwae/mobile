@@ -1,6 +1,6 @@
 # aplikasi
 
-A new Flutter project.
+Flutter Project Mobile
 
 ## Getting Started
 
